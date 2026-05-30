@@ -22,11 +22,10 @@ DeVry University, independent study, and home lab practice.
 ## 📁 Labs & Projects
 
 ### 🔢 Subnetting & IP Addressing
-Practice with IPv4 subnetting, VLSM, and IPv6 addressing schemes.
-- Subnet calculations and CIDR notation
-- IPv4 vs IPv6 comparison
-- Address classes and private IP ranges
+**[View Full Lab → Subnetting-and-IP-Addressing-Lab](https://github.com/LJones910109/Subnetting-and-IP-Addressing-Lab)**
 
+Hands-on subnetting practice covering IPv4 classes, CIDR notation, 
+VLSM, and IPv6 addressing with real network design scenarios.
 ---
 
 ### 📡 Network Analysis with Wireshark
